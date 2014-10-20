@@ -1,0 +1,43 @@
+Version and change log:
+
+---- 21/05/2012 ----
+
+0.8.0		IA do multiplayer VS CPU.
+
+0.7.1		Menu do jogo em pausa. Temas de BG.
+
+---- 20/05/2012 ----
+
+0.7.0		Itens. Tradução para espanhol. Mudança do BG multiplayer para acomodar os itens.
+
+---- 19/05/2012 ----
+
+0.6.1		Idiomas. Falta traduzir para espanhol.
+
+0.6.0		Versus CPU e tela de options.
+
+---- 18/05/2012 ----
+
+0.5.0		Níveis de dificuldade. Arte da tela multiplayer, ajustes gerais nos menus de ranking, dificuldade e net room.
+
+0.4.1		Correções para Windows. Encerrando a rede para possibilitar novo jogo multiplayer.
+
+---- 17/05/2012 ----
+
+0.4.0		Multiplayer com funcionamento básico correto: mostrando peça do inimigo e recebendo linhas. Falta fazer a parte gráfica da tela, itenelhorar o funcionamento da net room, criar tela de options e melhoramentos gráficoficos.
+
+0.3.0		Modo multiplayer desenhando matriz do rival e com envio de linhas funcionando.
+
+---- 16/05/2012 ----
+
+0.2.1		Campo para entrar com nome no ranking. Detalhes e efeitos visuais.
+
+0.2.0		Novo foreground, provavelmente definitivo. Tela de apresentação, de título com menu e ranking. Falta janela de nome para ranking, options, multiplayer, tela de créditos, elaborar os BGs para telas de menu.
+
+----- 14/05/2012 -----
+
+0.1.1		Aparentemente o bug de colisão vertical parou (repentinamente). Foreground. Marcação de linhas e progressão de velocidade. Versão final do primeiro dia de desenvolvimento.
+
+0.1.0		Maioria dos bugs corrigidos. Ainda ocorre raramente o bug de colisão vertical. Temas round e jewel, mudança nos gráficos do grid e cor de fundo.
+
+0.0.1		Versão inicial. Funcionamento básico do jogo single player, com alguns bugs na colisão vertical. Falta fazer colisão horizontal e checagem de rotação.

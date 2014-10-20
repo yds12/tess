@@ -1,0 +1,162 @@
+#####################################
+12/04/2013
+#####################################
+
+
+item chance: 30%
+-----------------------------------
+lines: 279
+score: 470
+time: 98.0097
+lines/time: 2.84666
+score/time: 4.79544
+Utility Function Parameters:
+linesWeight: 4
+sizeWeight: 0.1
+gapsWeight: 1.95
+areaWeight: 0.08
+flatnessWeight: 0.2
+speed: 20
+allocationSpeed: 90
+-----------------------------------
+-----------------------------------
+lines: 96
+score: 152
+time: 151.822
+lines/time: 0.63232
+score/time: 1.00117
+Utility Function Parameters:
+linesWeight: 4
+sizeWeight: 0.1
+gapsWeight: 1.95
+areaWeight: 0.08
+flatnessWeight: 0.2
+speed: 90
+allocationSpeed: 90
+-----------------------------------
+-----------------------------------
+lines: 552
+score: 878
+time: 345.207
+lines/time: 1.59904
+score/time: 2.5434
+Utility Function Parameters:
+linesWeight: 4
+sizeWeight: 0.1
+gapsWeight: 1.95
+areaWeight: 0.08
+flatnessWeight: 0.2
+speed: 20
+allocationSpeed: 90
+-----------------------------------
+-----------------------------------
+lines: 421
+score: 737
+time: 129.403
+lines/time: 3.2534
+score/time: 5.69539
+Utility Function Parameters:
+linesWeight: 4
+sizeWeight: 0.1
+gapsWeight: 1.95
+areaWeight: 0.08
+flatnessWeight: 0.2
+speed: 20
+allocationSpeed: 90
+-----------------------------------
+-----------------------------------
+lines: 189
+score: 347
+time: 316.595
+lines/time: 0.596977
+score/time: 1.09604
+Utility Function Parameters:
+linesWeight: 4
+sizeWeight: 0.1
+gapsWeight: 1.95
+areaWeight: 0.08
+flatnessWeight: 0.2
+speed: 20
+allocationSpeed: 90
+-----------------------------------
+
+item chance: 5%
+-----------------------------------
+lines: 130
+score: 189
+time: 92.4883
+lines/time: 1.40558
+score/time: 2.0435
+Utility Function Parameters:
+linesWeight: 4
+sizeWeight: 0.1
+gapsWeight: 1.95
+areaWeight: 0.08
+flatnessWeight: 0.2
+speed: 20
+allocationSpeed: 90
+-----------------------------------
+-----------------------------------
+lines: 738
+score: 1337
+time: 423.137
+lines/time: 1.74412
+score/time: 3.15973
+Utility Function Parameters:
+linesWeight: 4
+sizeWeight: 0.1
+gapsWeight: 1.95
+areaWeight: 0.08
+flatnessWeight: 0.2
+speed: 20
+allocationSpeed: 90
+-----------------------------------
+
+item chance: 0%
+-----------------------------------
+lines: 205
+score: 343
+time: 121.264
+lines/time: 1.69053
+score/time: 2.82855
+Utility Function Parameters:
+linesWeight: 4
+sizeWeight: 0.1
+gapsWeight: 1.95
+areaWeight: 0.08
+flatnessWeight: 0.2
+speed: 20
+allocationSpeed: 90
+-----------------------------------
+
+jogando contra:
+-----------------------------------
+lines: 20
+score: 29
+time: 113.535
+lines/time: 0.176158
+score/time: 0.255429
+Utility Function Parameters:
+linesWeight: 4
+sizeWeight: 0.1
+gapsWeight: 1.95
+areaWeight: 0.08
+flatnessWeight: 0.2
+speed: 20
+allocationSpeed: 25
+-----------------------------------
+-----------------------------------
+lines: 16
+score: 22
+time: 263.541
+lines/time: 0.0607116
+score/time: 0.0834785
+Utility Function Parameters:
+linesWeight: 4
+sizeWeight: 0.1
+gapsWeight: 1.95
+areaWeight: 0.08
+flatnessWeight: 0.2
+speed: 20
+allocationSpeed: 25
+-----------------------------------
