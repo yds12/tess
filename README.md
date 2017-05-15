@@ -3,7 +3,7 @@
 Multiplayer, free and open source Tetris game designed in C++ using the
 [AGL](https://github.com/yds12/agl) game library.
 
-![Tess Screenshot](https://github.com/yds12/tess/screenshot/05.png)
+![Tess Screenshot](/screenshot/05.png?raw=true)
 
 ## Compiling and Installing
 
