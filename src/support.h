@@ -9,7 +9,7 @@
 #include "agl/color.h"
 #include "agl/music.h"
 #include "agl/sound.h"
-#include "agl/graphics/graphics.h"
+#include "agl/graphics.h"
 #include "lang.h"
 
 #define STAGE_WIDTH	10

@@ -2,7 +2,7 @@
 #define _TETRIS_NETWORK
 
 #include "agl/game.h"
-#include "agl/net/net.h"
+#include "agl/net.h"
 #include "support.h"
 #include "piece.h"
 

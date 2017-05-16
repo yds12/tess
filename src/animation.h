@@ -3,7 +3,7 @@
 
 #include "agl/animation.h"
 #include "agl/color.h"
-#include "agl/graphics/graphics.h"
+#include "agl/graphics.h"
 #include "support.h"
 
 #define ANIMATION_TYPE_FADEOUT		0

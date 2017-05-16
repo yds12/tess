@@ -4,7 +4,7 @@
 #include "agl/drawer.h"
 #include "agl/filemanipulator.h"
 #include "agl/color.h"
-#include "agl/graphics/graphics.h"
+#include "agl/graphics.h"
 #include "agl/timer.h"
 #include "support.h"
 

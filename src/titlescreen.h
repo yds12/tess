@@ -1,7 +1,7 @@
 #ifndef _TETRIS_NETWORK
 #define _TETRIS_NETWORK
 
-#include "agl/net/net.h"
+#include "agl/net.h"
 
 namespace Tess
 {

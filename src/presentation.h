@@ -8,7 +8,7 @@
 #include "agl/mouse.h"
 #include "agl/timer.h"
 #include "agl/color.h"
-#include "agl/graphics/graphics.h"
+#include "agl/graphics.h"
 
 #include "support.h"
 
